@@ -2,7 +2,7 @@
 A third-person melee prototype built in Unreal Engine 5, featuring modular weapons, precise hit detection, stamina/poise systems, directional knockback with hit-stun, resettable light/heavy combo chains, 8-way rolls/backstep/guard, enemy lock-on with target switching, and an animation stack that combines Motion Matching with layered blends for smooth, natural transitions and reduced “mechanical” feel.
 
 ## Gameplay Screenshot
-![screenshot](https://github.com/AeAloysius/Mini-Dark-Souls/blob/main/mini.jpg)
+![screenshot](https://github.com/AeAloysius/Mini-Dark-Souls/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-09-23%20201856.png)
 
 ## Player Controller & Core Systems: 
 Movement, camera rotation, jumping, attacking, executions, lock-on/unlock with target switching, stamina consumption/recovery, blocking & mitigation, health.
